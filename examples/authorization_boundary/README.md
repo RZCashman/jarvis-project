@@ -8,15 +8,16 @@ separate concerns.
 
 ## Concept
 
+```text
 AI Recommendation
-|
-v
+        |
+        v
 Authorization Policy
-|
-+---- Approved ----> Execution
-|
-+---- Denied
-
+        |
+        +---- Approved ----> Execution
+        |
+        +---- Denied
+```
 
 ## Purpose
 
