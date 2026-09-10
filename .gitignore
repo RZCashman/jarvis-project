@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+*.env
+
+# Credentials
+credentials/
+secrets/
+*.key
+*.pem
+
+# Local configuration
+config.local.*
+settings.local.*
+
+# Logs
+logs/
+*.log
+
+# Personal data
+personal/
+private/
+data/
+documents/
