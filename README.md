@@ -14,11 +14,23 @@ JARVIS explores how reliable AI systems can be built through:
 - controlled execution
 - human authorization
 
+## Documentation
+
+The architectural concepts and design decisions behind JARVIS are documented here:
+
+- [Architecture Overview](docs/ARCHITECTURE_OVERVIEW.md)
+- [Design Principles](docs/DESIGN_PRINCIPLES.md)
+- [Security Boundaries](docs/SECURITY_BOUNDARIES.md)
+- [Publication Model](docs/PUBLICATION_MODEL.md)
+
 ## Important Note
 
 This repository contains public examples and architectural documentation.
 
 It is separate from the private JARVIS development environment.
+
+Private development environments, personal data, and experimental
+configurations are intentionally maintained separately.
 
 ## Attribution
 
